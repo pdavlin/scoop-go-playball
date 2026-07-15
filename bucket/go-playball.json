@@ -1,12 +1,12 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Terminal-based MLB game viewer",
   "homepage": "https://github.com/pdavlin/go-playball",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/pdavlin/go-playball/releases/download/v1.1.0/go-playball_windows_amd64.zip",
-      "hash": "bddc9b7a1ea3ffbd9b23de62e568a4c164bc78bb75fbaf9f8634aac5a03d925f"
+      "url": "https://github.com/pdavlin/go-playball/releases/download/v1.2.0/go-playball_windows_amd64.zip",
+      "hash": "e79a8a128f2eb1fd6b6d017c7fb62557a98c6f4e516274490db51d6af92cfd28"
     }
   },
   "bin": "go-playball.exe",
